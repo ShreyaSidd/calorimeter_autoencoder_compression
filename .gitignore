@@ -1,0 +1,43 @@
+# Python/Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+conda/
+envs/
+.venv/
+venv/
+pyvenv.cfg
+
+# Large data files
+*.parquet
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+
+# Compression/model outputs
+*.zlib
+*.gz
+*.zip
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+models/
+runs/
+
+# Logs and temporary files
+*.log
+*.err
+latest_jupyter_url.txt
+
+
+# System/editor backup files
+.DS_Store
+*.save
+
+**/*.png

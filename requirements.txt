@@ -1,0 +1,16 @@
+lightning
+random
+numpy
+matplotlib
+awkward
+pyarrow
+global_data_utils
+vector
+fastjet
+zlib
+pandas
+os
+socket
+torch
+ModelCheckpoint
+CSVLogger
